@@ -16,7 +16,7 @@
 ### Página de detalhes
 
 <div>
-<p>Nesta página podemos visualizar os detalhes do pokémon selecionado, como os status, movimentos, tipo e 1 gif de frente e 1 de costas do pokemon.</p>
+<p>Nesta página podemos visualizar os detalhes do pokémon selecionado, como os status, movimentos, tipo e 1 gif de frente e 1 de costas do pokémon.</p>
 <img src="https://github.com/WellingtonHdev/Projeto-Pokedex/assets/38796960/bc50b64b-dd10-4b6e-85f4-26722d7859b5" alt="imagem da página de detalhes"/>
 </div>
 <br/>
