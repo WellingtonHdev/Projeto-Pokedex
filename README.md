@@ -3,7 +3,7 @@
 # [Link de demonstração](https://wellingtonhdev-pokedex.surge.sh)
 
 ## Objetivo da aplicação
-<p>Esta aplicação tem como obijetivo listar os pokémons na página inicial, exibir os detalhes do pokémon selecionado e poder adicionar ou remover os pokémons na pokédex</p>
+<p>Esta aplicação tem como objetivo listar os pokémons na página inicial, exibir os detalhes do pokémon selecionado e poder adicionar ou remover os pokémons na pokédex</p>
 
 ## Obejtivo das páginas
 ### Página inicial
